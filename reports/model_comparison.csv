@@ -1,0 +1,5 @@
+Algorithm,MAE,RMSE,R-squared
+Random Forest Regressor,0.8847,1.1494,0.2773
+Decision Tree Regressor,0.8942,1.1732,0.2469
+KNN Regressor,0.9328,1.2246,0.1795
+Linear Regression,0.9873,1.2634,0.1267
